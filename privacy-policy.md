@@ -1,3 +1,5 @@
+# Chrome Extensions Privacy Policy
+
 ## TabHamster
 https://chrome.google.com/webstore/detail/tabhamster/mkfjjmjmnplabnplceaekkjcmdddokee
 

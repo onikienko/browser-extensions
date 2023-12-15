@@ -1,5 +1,10 @@
 # Chrome Extensions Privacy Policy
 
+## Disney Plus Ratings
+https://chromewebstore.google.com/detail/disney-plus-ratings/eoajkdpoodoacmoomlnehmjmlmebkfeh
+
+- Extension doesn't collect or store any personal information.
+
 ## TabHamster
 https://chrome.google.com/webstore/detail/tabhamster/mkfjjmjmnplabnplceaekkjcmdddokee
 

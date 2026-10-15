@@ -11,7 +11,7 @@ https://chromewebstore.google.com/detail/tabhamster/mkfjjmjmnplabnplceaekkjcmddd
 - See the [TabHamster privacy policy](tabhamster-privacy).
 
 ## keygen music play button
-https://chrome.google.com/webstore/detail/keygen-music-play-button/olephdnjkkjiidgifanfiimkbbcaogid
+https://chromewebstore.google.com/detail/keygen-music-play-button/olephdnjkkjiidgifanfiimkbbcaogid
 
 - "keygen music play button" doesn't collect or store any personal information.
 - No data are transmitted to anywhere, ever.

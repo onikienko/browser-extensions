@@ -1,3 +1,7 @@
+---
+title: TabHamster Privacy Policy
+---
+
 <img src="tabhamster.png" width="64" height="64" alt="TabHamster">
 
 # TabHamster Privacy Policy

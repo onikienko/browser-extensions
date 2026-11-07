@@ -6,20 +6,26 @@ title: TabHamster Privacy Policy
 
 # TabHamster Privacy Policy
 
-Last updated: October 26, 2026
+Last updated: November 6, 2026
 
 TabHamster is a browser extension that saves groups of tabs and keeps your recent browser sessions.
 Chrome Web Store: https://chromewebstore.google.com/detail/tabhamster/mkfjjmjmnplabnplceaekkjcmdddokee
+Edge Add-ons: https://microsoftedge.microsoft.com/addons/detail/tabhamster/pifbgknmgjnlibbcbdblinmmlmdihkgc
+Firefox Add-ons: https://addons.mozilla.org/firefox/addon/tab-hamster/
 
 ## What TabHamster stores
 
 - TabHamster stores only data closely related to its functionality: saved tab groups, settings, recent browser
   sessions (open and closed tabs and windows, and the pages each tab went through) and groups deleted in the last
   30 days.
-- Saved groups and settings are stored in chrome.storage.sync, which the browser syncs with your account if sync is
-  turned on.
-- A copy of the saved groups, the sessions and the recently deleted groups are stored in chrome.storage.local, on your
-  computer only.
+- Saved groups and settings are stored in the browser's sync storage (storage.sync), which the browser syncs with your
+  account if sync is turned on (in Firefox: Firefox Sync with Add-ons turned on).
+- A copy of the saved groups, the sessions and the recently deleted groups are stored in the browser's local storage
+  (storage.local), on your computer only.
+- In Firefox, the icon of each site your tabs show is also kept on your computer, so TabHamster can show it (Firefox
+  doesn't let extensions use its own icon store). Up to 20,000 sites; tabs in private windows are left out. Clear
+  them at any time in Settings > General ("Site icons on this computer"); they are also removed when you remove
+  TabHamster.
 - A backup file is made only when you download or copy it, and stays where you put it.
 
 ## What TabHamster sends
